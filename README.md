@@ -80,8 +80,9 @@ Streamlit will print a local URL in the terminal. Open that URL in your browser.
 
 **M. Asif Khan**
 
-- GitHub: [@Asifmehsud2](https://github.com/Asifmehsud2)
-- LinkedIn: [@AsifMehsud]((https://www.linkedin.com/in/asif-mehsud/))
+
+- **GitHub:** [@Asifmehsud2](https://github.com/Asifmehsud2)
+- **LinkedIn:** [Asif Mehsud](https://www.linkedin.com/in/asif-mehsud/)
 
 ---
 
